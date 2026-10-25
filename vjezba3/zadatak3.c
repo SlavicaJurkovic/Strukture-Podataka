@@ -67,6 +67,7 @@ int main() {
         return 1;
     }
 
+
     printf("\nLista nakon dodavanja na kraj:\n");
     printlist(p->next);
 
